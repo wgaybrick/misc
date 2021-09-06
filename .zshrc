@@ -1,0 +1,1 @@
+PROMPT='%B%F{green}%n%f%b:%~ $ '
